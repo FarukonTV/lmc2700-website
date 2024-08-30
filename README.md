@@ -1,1 +1,1 @@
-# cs2700-website
+# lmc2700-website
